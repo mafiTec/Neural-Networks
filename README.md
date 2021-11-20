@@ -1,0 +1,2 @@
+# Neural-Networks
+Neural networks is the base of deep learning, where the structure of the human brain inspires the algorithms. Neural networks take input data, train themselves to recognize patterns found in the data, and then predict the output for a new set of similar data. Therefore, a neural network can be thought of as the functional unit of deep learning, which mimics the behaviour of the human brain to solve complex data-driven problems
